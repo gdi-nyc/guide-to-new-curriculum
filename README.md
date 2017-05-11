@@ -23,6 +23,9 @@ Here are our docs for contributing to GDI Curriculum
 	- [ ] Follow Up Email
 * If you want your workshop to be included on our [national website](https://www.girldevelopit.com/materials), check out this [review rubric](https://docs.google.com/document/d/1zw7qX2EAO08rGAjl9683aVxtsAoZQLxmy7evu2my4OY/edit). Please note that this is not a requirement for inclusion in this organization.
 
+## Class Slides
+We use reveal.js for all our slides. If you are creating new slides from scratch, start by forking this repo: https://github.com/gdi-nyc/reveal.js. There are instructions for how reveal.js works if you aren't familiar with it. 
+
 ## Links
 [Read our docs](CONTRIBUTING.md)
 [Pull Request Template](PULL_REQUEST_TEMPLATE.md)
